@@ -23,3 +23,7 @@ _If GitHub Pages doesn't work out I'll try this from a VPS, but if the costs get
 **How can we help keep the service sustainable?**
 
 _Although there's no cost, we wouldn't be sad if people wanted to zap a few sats to nostr@nostr.ca._
+
+**Are you affiliated with the Nostr protocol or nostr.com?**
+
+_Absolutely not, just a Nostr fan that's trying to help expand the ecosystem._
