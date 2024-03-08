@@ -1,6 +1,6 @@
 # nostr.ca -- Free NIP-05 verified @nostr.ca identifiers for all
 
-Want a free @nostr.ca identifiers to use with Nostr? Simply send an email to nostr@nostr.ca to request your identifier. Identifiers are available on a first come, first served basis, so get your identifier before someone beats you to it!
+Want a free @nostr.ca identifier to use with Nostr? Simply send an email to nostr@nostr.ca to request your identifier. Identifiers are available on a first come, first served basis, so get your identifier before someone beats you to it!
 
 ## FAQ
 
