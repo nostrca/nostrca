@@ -18,7 +18,7 @@ _Everything is hosted on GitHub Pages and no costs are incurred._
 
 **Does that mean the service could get shut down at some point?**
 
-_If GitHub Pages doesn't work out I'll try this from a VPS, but if the costs get out of hand, yes, it's possible that the service could shut down. This is another reason it's completely free_
+_If GitHub Pages doesn't work out I'll try this from a VPS, but if the costs get out of hand, yes, it's possible that the service could shut down. This is another reason it's completely free._
 
 **How can we help keep the service sustainable?**
 
